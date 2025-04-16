@@ -1,0 +1,12 @@
+{
+    "name": "Meu Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:0-20",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "ritwickdey.LiveServer",
+            "vscode-icons-team.vscode-icons"
+        ]
+      }
+    }
+  }
